@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/react-image-edit/static/css/main.12506ae0.chunk.css",
+    "main.js": "/react-image-edit/static/js/main.58522ee8.chunk.js",
+    "main.js.map": "/react-image-edit/static/js/main.58522ee8.chunk.js.map",
+    "runtime-main.js": "/react-image-edit/static/js/runtime-main.c5ed3f31.js",
+    "runtime-main.js.map": "/react-image-edit/static/js/runtime-main.c5ed3f31.js.map",
+    "static/css/2.33f97271.chunk.css": "/react-image-edit/static/css/2.33f97271.chunk.css",
+    "static/js/2.1945c955.chunk.js": "/react-image-edit/static/js/2.1945c955.chunk.js",
+    "static/js/2.1945c955.chunk.js.map": "/react-image-edit/static/js/2.1945c955.chunk.js.map",
+    "index.html": "/react-image-edit/index.html",
+    "precache-manifest.1708b52b39d89d9a829e2aa8e2cf0690.js": "/react-image-edit/precache-manifest.1708b52b39d89d9a829e2aa8e2cf0690.js",
+    "service-worker.js": "/react-image-edit/service-worker.js",
+    "static/css/2.33f97271.chunk.css.map": "/react-image-edit/static/css/2.33f97271.chunk.css.map",
+    "static/css/main.12506ae0.chunk.css.map": "/react-image-edit/static/css/main.12506ae0.chunk.css.map",
+    "static/js/2.1945c955.chunk.js.LICENSE.txt": "/react-image-edit/static/js/2.1945c955.chunk.js.LICENSE.txt",
+    "static/media/lotus.jpg": "/react-image-edit/static/media/lotus.10ec5171.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c5ed3f31.js",
+    "static/css/2.33f97271.chunk.css",
+    "static/js/2.1945c955.chunk.js",
+    "static/css/main.12506ae0.chunk.css",
+    "static/js/main.58522ee8.chunk.js"
+  ]
+}
